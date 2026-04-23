@@ -1,0 +1,13 @@
+name: introRL-torch
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - torchvision
+  - pytorch
+  - matplotlib
+  - gym
+prefix: /Users/romina/anaconda/envs/introRL-torch
+
